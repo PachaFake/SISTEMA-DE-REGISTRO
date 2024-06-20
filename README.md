@@ -5,3 +5,5 @@
 para ejecutar el sistema, debes poner:
 
 ```npe install react```
+
+sitema de rigistro 2
